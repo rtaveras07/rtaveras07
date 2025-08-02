@@ -42,4 +42,4 @@ Whether it's building custom ERP systems, crafting APIs, or integrating machine 
 - Consultorías técnicas
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rtaveras07)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](rtaveras07)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](rtaveras07](https://www.linkedin.com/in/rafaeltaveras/)
