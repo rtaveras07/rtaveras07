@@ -35,11 +35,11 @@ Whether it's building custom ERP systems, crafting APIs, or integrating machine 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rtaveras07"><img src="https://github-readme-stats.vercel.app/api?username=rtaveras07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rtaveras07's GitHub stats" /></a>
-## 📫 ¿Quieres colaborar?
-¡Hablemos sobre tecnología! Estoy abierto a:
-- Proyectos innovadores con IA
-- Desarrollo de sistemas ERP
-- Consultorías técnicas
+## 📫 Let's Collaborate
+I'm available for:
+- AI-powered project development
+- Custom ERP solutions
+- Technical consulting engagements
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rtaveras07)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeltaveras/)
